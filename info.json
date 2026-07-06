@@ -1,12 +1,24 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "cubium-cubnut-agriculture",
+  "title": "Wooden Cubium: Cubnut Agriculture",
+  "description": "Grow Cubnuts in the ultradense lava on Cubium and process it to wood.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
-  ]
+    "base >= 2.0.77",
+    "space-age >= 2.0.77",
+
+    "khaoslib >= 1.3.0",
+
+    "cubium >= 1.0.28"
+  ],
+  "space_travel_required": true,
+  "package": {
+    "ignore": [
+      "**/*.xcf",
+      "**/*.txt"
+    ]
+  }
 }

@@ -1,0 +1,5 @@
+require("__cubium-cubnut-agriculture__.prototypes.entity.plant")
+require("__cubium-cubnut-agriculture__.prototypes.entity.tree")
+require("__cubium-cubnut-agriculture__.prototypes.item")
+require("__cubium-cubnut-agriculture__.prototypes.recipe")
+require("__cubium-cubnut-agriculture__.prototypes.technology")

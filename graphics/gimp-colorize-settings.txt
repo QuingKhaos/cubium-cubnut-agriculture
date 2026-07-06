@@ -1,0 +1,11 @@
+# GIMP 'Colorize' settings
+
+(time 0)
+(gimp-mode hsl-color)
+(hue 0.61249399185180664)
+(saturation 1)
+(lightness -0.37257736921310425)
+(color
+    (color "HSL float" 12 "\315\314\34\77\0\0\200\77\243\240\240\76" 0))
+
+# end of 'Colorize' settings
