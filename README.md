@@ -11,6 +11,11 @@ Grow Cubnuts in the ultradense lava on Cubium and process it to wood.
 - If you have [Cubium: Lignumis Combatibility](https://mods.factorio.com/mod/cubium-lignumis-compat) installed, the easy
   cube jelly to wood recipe is removed.
 
+## Credits
+
+Credits to [Talandar99](https://mods.factorio.com/user/Talandar99) with [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture),
+on which this mod is based.
+
 ## All my Cubium mods
 
 - [Wooden Cubium: Cubnut Agriculture](https://mods.factorio.com/mod/cubium-cubnut-agriculture) - Grow Cubnuts in the
