@@ -24,6 +24,10 @@ data.extend ({
     subgroup = "agriculture-processes",
     order = "b[agriculture]-a[cubnut]b",
     icon = "__cubium-cubnut-agriculture__/graphics/icons/cubnut.png",
+    pictures = {
+      {size = 64, filename = "__cubium-cubnut-agriculture__/graphics/icons/cubnut.png", scale = 0.5, mipmap_count = 4},
+      {size = 64, filename = "__cubium-cubnut-agriculture__/graphics/icons/cubnut-1.png", scale = 0.5, mipmap_count = 4},
+    },
     inventory_move_sound = space_age_item_sounds.agriculture_inventory_move,
 		pick_sound = space_age_item_sounds.agriculture_inventory_pickup,
 		drop_sound = space_age_item_sounds.agriculture_inventory_move,

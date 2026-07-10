@@ -16,8 +16,8 @@ Grow Cubnuts in the ultradense lava on Cubium and process it to wood.
 
 ## Credits
 
-Credits to [Talandar99](https://mods.factorio.com/user/Talandar99) with [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture),
-on which this mod is based.
+Big thanks to [Talandar99](https://mods.factorio.com/user/Talandar99) with [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture),
+on which this mod is based and who created new Cubnut assets for me.
 
 ## All my Cubium mods
 
