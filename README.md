@@ -28,12 +28,12 @@ on which this mod is based.
   science pack from Lignumis to Cubium, and an easy way to obtain wood.
 - [Cubium: Moshine Compatibility](https://mods.factorio.com/mod/cubium-moshine-compat) - Adds cubic AI core recipes to Moshine.
 - [Cubium: Muluna Compatibility](https://mods.factorio.com/mod/cubium-muluna-compat) - Adds a cubic exploration science
-  pack from Muluna to Cubium.
+  pack from Muluna to Cubium, and hope greenhouse tree growth.
 - [Cubium Planet Discovery Patch](https://mods.factorio.com/mod/cubium-planet-discovery-patch) - Adds the space locations
   on the route from Nauvis to Cubium as prerequisites to Cubium's planet discovery.
 - [Cubium Planetary Cubic Science Packs](https://mods.factorio.com/mod/cubium-planetary-cubic-science-packs) - All
   planetary cubic science pack recipes require inverted microcubes instead of energized microcubes now. Except Lignumis.
-- [Cubic Space Science Pack](https://mods.factorio.com/mod/cubium-space-science-pack) - Adds a cubic space science pack
-  to Cubium.
 - [Cubium Science Pack Reorder](https://mods.factorio.com/mod/cubium-science-pack-reorder) - Reorders the Cubium science
   packs in the same order as in the base game.
+- [Cubic Space Science Pack](https://mods.factorio.com/mod/cubium-space-science-pack) - Adds a cubic space science pack
+  to Cubium.
