@@ -26,6 +26,7 @@ on which this mod is based.
   ultradense lava on Cubium and process it to wood.
 - [Cubium: Lignumis Combatibility](https://mods.factorio.com/mod/cubium-lignumis-compat) - Adds a cubic wood and steam
   science pack from Lignumis to Cubium, and an easy way to obtain wood.
+- [Cubium: Moshine Compatibility](https://mods.factorio.com/mod/cubium-moshine-compat) - Adds cubic AI core recipes to Moshine.
 - [Cubium: Muluna Compatibility](https://mods.factorio.com/mod/cubium-muluna-compat) - Adds a cubic exploration science
   pack from Muluna to Cubium.
 - [Cubium Planet Discovery Patch](https://mods.factorio.com/mod/cubium-planet-discovery-patch) - Adds the space locations
