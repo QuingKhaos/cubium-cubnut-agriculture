@@ -4,7 +4,7 @@
   "description": "Grow Cubnuts in the ultradense lava on Cubium and process it to wood.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
