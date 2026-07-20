@@ -3,7 +3,7 @@ local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
 khaoslib_recipe:load {
   type = "recipe",
   name = "cubnut-cracking",
-  category = "crafting-with-fluid-or-metallurgy",
+  categories = {"crafting-with-fluid", "metallurgy"},
   subgroup = "agriculture-processes",
   order = "b[agriculture]-a[cubnut]a",
   icons = {
@@ -22,7 +22,7 @@ khaoslib_recipe:load {
     {type = "fluid", name = "ultradense-lava", amount = 10},
   },
   results = {
-    {type = "item", name = "cubnut-seed", amount = 1, probability = 0.10},
+    {type = "item", name = "cubnut-seed", amount = 1, independent_probability = 0.10},
     {type = "item", name = "wood", amount = 5},
   },
   main_product = "",
@@ -37,7 +37,7 @@ khaoslib_recipe:load {
 khaoslib_recipe:load {
   type = "recipe",
   name = "cubnut-substrate",
-  category = "crafting-with-fluid-or-metallurgy",
+  categories = {"crafting-with-fluid", "metallurgy"},
   subgroup = "agriculture-processes",
   order = "b[agriculture]-a[cubnut]c",
   icons = {
