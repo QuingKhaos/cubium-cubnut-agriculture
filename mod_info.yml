@@ -1,0 +1,11 @@
+mod_info:
+  title: "Wooden Cubium: Cubnut Agriculture"
+  summary: "Grow Cubnuts in the ultradense lava on Cubium and process it to wood."
+  description_file: README.md
+  attach_source_link: true
+  license: gnugplv3
+  category: content
+  tags:
+    - environment
+    - mining
+    - manufacturing
