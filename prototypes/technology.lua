@@ -1,4 +1,4 @@
-local khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_technology = require("__khaoslib__.prototypes.technology")
 
 khaoslib_technology:load {
   type = "technology",
