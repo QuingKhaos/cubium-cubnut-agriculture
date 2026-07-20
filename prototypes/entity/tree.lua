@@ -1,4 +1,3 @@
-local util = require('util')
 local ultradense_lichen_tree_pictures = require("__cubium-cubnut-agriculture__.prototypes.entity.ultradense-lichen")
 
 local function ultradense_tree_stateless_visualisation(positions)

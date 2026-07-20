@@ -1,4 +1,4 @@
-local khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
 
 khaoslib_recipe:load {
   type = "recipe",
